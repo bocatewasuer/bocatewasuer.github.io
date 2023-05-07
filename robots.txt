@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocatewasuer.github.io/sitemap.xml
